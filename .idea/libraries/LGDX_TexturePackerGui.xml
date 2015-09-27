@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LGDX-TexturePackerGui">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/packer/LGDX-TexturePackerGui.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

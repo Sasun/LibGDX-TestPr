@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="texturepacker-gui">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/texturepacker-gui.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="jar://$PROJECT_DIR$/libs/texturepacker-gui.jar!/" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
